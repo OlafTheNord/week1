@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Иван Иванов",
+    "department": "IT",
+    "salary": 120000,
+    "hire_date": "2022-01-15"
+  },
+  {
+    "name": "Мария Петрова",
+    "department": "IT",
+    "salary": 110000,
+    "hire_date": "2021-05-20"
+  },
+  {
+    "name": "Алексей Сидоров",
+    "department": "HR",
+    "salary": 90000,
+    "hire_date": "2020-03-10"
+  },
+  {
+    "name": "Ольга Козлова",
+    "department": "HR",
+    "salary": 95000,
+    "hire_date": "2021-07-22"
+  },
+  {
+    "name": "Петр Васильев",
+    "department": "Finance",
+    "salary": 105000,
+    "hire_date": "2022-11-30"
+  }
+]
